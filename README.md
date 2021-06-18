@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Julianos's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianodportela)](https://github.com/anuraghazra/github-readme-stats)
+[![Julianos's GitHub stats](https://github-readme-stats.vercel.app/api?theme=tokyonight&username=julianodportela&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on Huo Delivery and Pix Flutter!
 - 🌱 I’m currently learning Python for competitions
